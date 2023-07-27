@@ -12,3 +12,4 @@ for symbol in text:
 
 print("Кол-во букв",first_sym,"=",firstSymCount)
 print("Кол-во букв",second_sym,"=",secondSymCount)
+
